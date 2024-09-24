@@ -1,2 +1,3 @@
-# Computer-Organization-And-Assembly
-I am Gonna put my lab Assesment and COAL Learning here
+# Computer Organization and Assembly (COAL) - CS226-L
+
+Welcome to my CS226-L Lab Assessment and Learning Repository! This space is dedicated to exploring **Computer Organization and Assembly Language (COAL)** through practical examples and lab assignments using **C++** and **Rust**.
